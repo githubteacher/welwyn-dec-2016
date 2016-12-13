@@ -1,4 +1,4 @@
-#!/opt/BIOSTAT/prod/acp/bin/python3
+#!/opt/BIOSTAT/home/acp/bin/python3
 # ------------------------------------------------------------------------------
 # examples_tagindex2rst.py - Create a tag index reST file from example fragments
 # ------------------------------------------------------------------------------
