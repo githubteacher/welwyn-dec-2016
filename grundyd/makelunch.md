@@ -1,5 +1,9 @@
 # Lunch
+
 > $do until [plate is full]
-> add food
+
+> $push :food onto :plate
+
 > $loop
+
 > $end
