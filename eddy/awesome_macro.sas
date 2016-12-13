@@ -1,4 +1,6 @@
 %macro my_macro(ds);
-    proc print data = &ds;
+    title "placeholder";
+    footnote "A footnote";
+    proc print data = &ds noobs;
     run;
 %mend;
