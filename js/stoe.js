@@ -1,5 +1,5 @@
 // dummy JS file
 
 (function() {
-  return 'Hello World';
+  return 'foobar lorem ipsum';
 })();
