@@ -5,3 +5,5 @@
 - Jesolo for :pizza: and :pasta:
 
 ## Fun things to do
+- Legoland
+- Schloß Neuschwanstein
