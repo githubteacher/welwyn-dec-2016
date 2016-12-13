@@ -1,2 +1,3 @@
 dummy file for uploading in github
-editting on .com area github
+
+addin a conflict to the file
