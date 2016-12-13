@@ -2,7 +2,7 @@
 #Binary endpoint, number of patietns per arm
 #-------------------------
 n_binary <- function(alpha, beta, pi1, pi2)
-{ pi <- (pi1+pi2)/2.
+{ pi.change <- (pi1+pi2)/2. #change this line differently ...
   za <- qnorm(1-alpha/2.)*sqrt(2*pi*(1-pi))+ qnorm(1-beta)*sqrt(pi1*(1-pi1)+pi2*(1-pi2))
   #number of patients per arm
   nevents <- za^2/((pi2-pi1)^2)
